@@ -9,5 +9,7 @@ email: dev.skyachieve91@gmail.com
 
 ---
 
-- [📦 250803 Java Spring Framework - 1. Presentation Layer](https://github.com/devKobe24/Archive/blob/main/pdf/2025-08-03-Java-Spring-Framework-Presentation-Layer.pdf)
+- [📦 devkobe24 Blog / AWS](https://www.devkobe24.com/AWS/)
+- [📦 devkobe24 Blog / Backend Development](https://www.devkobe24.com/Backend%20Development/)
+- [📦 devkobe24 Blog / Code Review](https://www.devkobe24.com/Code%20Review/)
 
